@@ -13,13 +13,13 @@ users a P2 license in Entra ID.<br />
 <img width="926" height="373" alt="chris license" src="https://github.com/user-attachments/assets/36fefedc-bd19-4cdd-b1e3-d751504e4dcf" />
 </p>
 <p>
-Assigned P2 license to user Chris Walker.
+Assigned a Microsoft Entra ID P2 license to Chris Walker to enable advanced identity governance, access management, and security capabilities within the cloud environment.
 </p>
 <br />
 <p>
 <img width="929" height="374" alt="jordan license" src="https://github.com/user-attachments/assets/a48b5fbf-2570-4a3d-8345-825b07243fdb" />
 </p>
 <p>
-Assigned P2 license to user Jordan Lee.
+Provisioned a Microsoft Entra ID P2 license to Jordan Lee to support enterprise identity protection and access control management.
 </p>
 
